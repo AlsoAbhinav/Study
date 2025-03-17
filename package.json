@@ -10,7 +10,7 @@
     "preview": "vite preview",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
-    "homepage": "https://AlsoAbhinav.github.io/StudyPlanner"
+    "homepage": "https://AlsoAbhinav.github.io/Study"
   },
   "dependencies": {
     "react": "^19.0.0",
