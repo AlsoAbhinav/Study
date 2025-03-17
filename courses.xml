@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+  <course name="Operating System">
+    <topics>
+      <topic id="1" name="Introduction" />
+      <topic id="2" name="Process Management" />
+      <topic id="3" name="Process Communication &amp; Synchronization" />
+      <topic id="4" name="Memory Management" />
+      <topic id="5" name="File Systems" />
+      <topic id="6" name="I/O Management" />
+      <topic id="7" name="Deadlock" />
+      <topic id="8" name="Security" />
+      <topic id="9" name="System Administration" />
+    </topics>
+  </course>
+  
+  <course name="Embedded System">
+    <topics>
+      <topic id="1" name="Introduction to ES" marks="4" />
+      <topic id="2" name="Hardware Design Issues" marks="8" />
+      <topic id="3" name="Software Design Issues" marks="8" />
+      <topic id="4" name="Memory" marks="8" />
+      <topic id="5" name="Interfacing" marks="8" />
+      <topic id="6" name="RTOS" marks="12" />
+      <topic id="7" name="Control System" marks="8" />
+      <topic id="8" name="IC Technology" marks="8" />
+      <topic id="9" name="Microcontrollers in ES" marks="8" />
+      <topic id="10" name="VHDL" marks="8" />
+    </topics>
+  </course>
+  
+  <course name="Database Management System">
+    <topics>
+      <topic id="1" name="Introduction" marks="4" />
+      <topic id="2" name="Data Models" marks="12" />
+      <topic id="3" name="Relational Languages &amp; Relational Model" marks="12" />
+      <topic id="4" name="Database Constraints &amp; Normalization" marks="12" />
+      <topic id="5" name="Query Processing and Optimization" marks="8" />
+      <topic id="6" name="File Structure &amp; Hashing" marks="8" />
+      <topic id="7" name="Transactions processing &amp; Concurrency Control" marks="12" />
+      <topic id="8" name="Crash Recovery" marks="6" />
+      <topic id="9" name="Advanced database Concepts" marks="6" />
+    </topics>
+  </course>
+  
+  <course name="Artificial Intelligence">
+    <topics>
+      <topic id="1" name="Introduction" marks="7" />
+      <topic id="2" name="Problem Solving" marks="7" />
+      <topic id="3" name="Search techniques" marks="9" />
+      <topic id="4" name="Knowledge representation, inference" marks="14" />
+      <topic id="5" name="Structured Knowledge Representation" marks="7" />
+      <topic id="6" name="Machine Learning" marks="10" />
+      <topic id="7" name="Applications of AI" marks="26" />
+    </topics>
+  </course>
+  
+  <course name="Engineering Economics">
+    <topics>
+      <topic id="1" name="Introduction" marks="4" />
+      <topic id="2" name="Cost Concepts &amp; Behavior" marks="8" />
+      <topic id="3" name="Understanding Financial Statements" marks="16" />
+      <topic id="4" name="Comparative Analysis of Alternatives" marks="12" />
+      <topic id="5" name="Replacement Analysis" marks="12" />
+      <topic id="6" name="Risk Analysis" marks="12" />
+      <topic id="7" name="Depreciation &amp; Corporate Income Tax" marks="12" />
+      <topic id="8" name="Inflation" marks="4" />
+    </topics>
+  </course>
+  
+  <course name="Object Oriented Analysis &amp; Design">
+    <topics>
+      <topic id="1" name="Object Oriented Fundamentals" marks="18" />
+      <topic id="2" name="Object Oriented Analysis" marks="14" />
+      <topic id="3" name="Object Oriented Design" marks="21" />
+      <topic id="4" name="Implementation" marks="27" />
+    </topics>
+  </course>
+</courses>
