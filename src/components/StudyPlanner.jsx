@@ -47,7 +47,7 @@ const StudyPlanner = () => {
     "Operating System": [
       { id: 1, name: "Introduction", marks: 8 },
       { id: 2, name: "Process Management", marks: 10 },
-      { id: 3, name: "Process Communication & Synchronization", marks: 10},
+      { id: 3, name: "Process Communication & Synchronization", marks: 10 },
       { id: 4, name: "Memory Management", marks: 10 },
       { id: 5, name: "File Systems", marks: 8 },
       { id: 6, name: "I/O Management", marks: 10 },
