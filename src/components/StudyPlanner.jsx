@@ -45,15 +45,15 @@ const StudyPlanner = () => {
   // Course data
   const coursesData = {
     "Operating System": [
-      { id: 1, name: "Introduction", marks: 10 },
+      { id: 1, name: "Introduction", marks: 8 },
       { id: 2, name: "Process Management", marks: 10 },
       { id: 3, name: "Process Communication & Synchronization", marks: 10},
       { id: 4, name: "Memory Management", marks: 10 },
-      { id: 5, name: "File Systems", marks: 10 },
-      { id: 6, name: "I/O Management", marks: 20 ( 6,8,9) },
+      { id: 5, name: "File Systems", marks: 8 },
+      { id: 6, name: "I/O Management", marks: 10 },
       { id: 7, name: "Deadlock", marks: 10 },
-      { id: 8, name: "Security", marks: 20 ( 6,8,9)  },
-      { id: 9, name: "System Administration", marks: 20 ( 6,8,9)  }
+      { id: 8, name: "Security", marks: 10 },
+      { id: 9, name: "System Administration", marks: 8 }
     ],
     "Embedded System": [
       { id: 1, name: "Introduction to ES", marks: 4 },
