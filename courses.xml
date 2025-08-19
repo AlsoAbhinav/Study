@@ -1,79 +1,95 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <courses>
-  <course name="Operating System">
-    <topics>
-      <topic id="1" name="Introduction" />
-      <topic id="2" name="Process Management" />
-      <topic id="3" name="Process Communication &amp; Synchronization" />
-      <topic id="4" name="Memory Management" />
-      <topic id="5" name="File Systems" />
-      <topic id="6" name="I/O Management" />
-      <topic id="7" name="Deadlock" />
-      <topic id="8" name="Security" />
-      <topic id="9" name="System Administration" />
-    </topics>
-  </course>
-  
-  <course name="Embedded System">
-    <topics>
-      <topic id="1" name="Introduction to ES" marks="4" />
-      <topic id="2" name="Hardware Design Issues" marks="8" />
-      <topic id="3" name="Software Design Issues" marks="8" />
-      <topic id="4" name="Memory" marks="8" />
-      <topic id="5" name="Interfacing" marks="8" />
-      <topic id="6" name="RTOS" marks="12" />
-      <topic id="7" name="Control System" marks="8" />
-      <topic id="8" name="IC Technology" marks="8" />
-      <topic id="9" name="Microcontrollers in ES" marks="8" />
-      <topic id="10" name="VHDL" marks="8" />
-    </topics>
-  </course>
-  
-  <course name="Database Management System">
+  <course name="Project Management" examDate="August 26th">
     <topics>
       <topic id="1" name="Introduction" marks="4" />
-      <topic id="2" name="Data Models" marks="12" />
-      <topic id="3" name="Relational Languages &amp; Relational Model" marks="12" />
-      <topic id="4" name="Database Constraints &amp; Normalization" marks="12" />
-      <topic id="5" name="Query Processing and Optimization" marks="8" />
-      <topic id="6" name="File Structure &amp; Hashing" marks="8" />
-      <topic id="7" name="Transactions processing &amp; Concurrency Control" marks="12" />
-      <topic id="8" name="Crash Recovery" marks="6" />
-      <topic id="9" name="Advanced database Concepts" marks="6" />
+      <topic id="2" name="Project Management Body of Knowledge" marks="7" />
+      <topic id="3" name="Portfolio and Project Management Institutes’ (PMI) Framework " marks="4" />
+      <topic id="4" name="Project Management" marks="7" />
+      <topic id="5" name="Project and Organizational structure" marks="4" />
+      <topic id="6" name="Project Management Process Groups " marks="4" />
+      <topic id="7" name="Project Integration Management" marks="7" />
+      <topic id="8" name="Project Time Management" marks="7" />
+      <topic id="9" name="Project Cost Management" marks="7" />
+      <topic id="10" name="Project quality management" marks="5" />
+      <topic id="11" name="Project Communication Management" marks="5" />
+      <topic id="12" name="Project Risk Management" marks="7" />
+      <topic id="13" name="Project Procurement Management" marks="5" />
+      <topic id="14" name="Developing Custom Processes for IT projects" marks="5" />
+      <topic id="15" name="Balanced scorecard and ICT project management " marks="2" />
     </topics>
   </course>
-  
-  <course name="Artificial Intelligence">
+
+  <course name="Digital Signal Analysis and Processing" examDate="August 30th">
     <topics>
-      <topic id="1" name="Introduction" marks="7" />
-      <topic id="2" name="Problem Solving" marks="7" />
-      <topic id="3" name="Search techniques" marks="9" />
-      <topic id="4" name="Knowledge representation, inference" marks="14" />
-      <topic id="5" name="Structured Knowledge Representation" marks="7" />
-      <topic id="6" name="Machine Learning" marks="10" />
-      <topic id="7" name="Applications of AI" marks="26" />
+      <topic id="1" name="Discrete time signals and systems" marks="9" />
+      <topic id="2" name="Z-transform" marks="6" />
+      <topic id="3" name="Analysis of LTI system in frequency domain" marks="10" />
+      <topic id="4" name="Discrete filter structures" marks="10" />
+      <topic id="5" name="FIR filter design" marks="15" />
+      <topic id="6" name="IIR filter design" marks="15" />
+      <topic id="7" name="Discrete Fourier transform" marks="15" />
     </topics>
   </course>
-  
-  <course name="Engineering Economics">
+
+  <course name="Energy Environment and Society" examDate="September 3rd">
+    <topics>
+      <topic id="1" name="Technology and Development" marks="4" />
+      <topic id="2" name="Energy Basics" marks="5" />
+      <topic id="3" name="Renewable Energy Sources" marks="20" />
+      <topic id="4" name="Environmental Impact of Energy sources" marks="4" />
+      <topic id="5" name="Energy Storage" marks="4" />
+      <topic id="6" name="Relevant International/national case studies" marks="3" />
+    </topics>
+  </course>
+
+  <course name="Distributed System" examDate="September 7th">
+    <topics>
+      <topic id="1" name="Introduction" marks="8" />
+      <topic id="2" name="Distributed Objects and File System" marks="16" />
+      <topic id="3" name="Operating System Support" marks="16*" />
+      <topic id="4" name="Distributed Heterogeneous Applications and CORBA" marks="16*" />
+      <topic id="5" name="Time and State in Distributed Systems" marks="8" />
+      <topic id="6" name="Coordination and Agreement" marks="8" />
+      <topic id="7" name="Replication" marks="8" />
+      <topic id="8" name="Transaction and Concurrency Control" marks="8" />
+      <topic id="9" name="Fault Tolerance" marks="8" />
+      <topic id="10" name="Case Studies" marks="16*" />
+    </topics>
+  </course>
+
+  <course name="Organization and Management" examDate="September 11th">
+    <topics>
+      <topic id="1" name="Introduction" marks="24 or 32" />
+      <topic id="2" name="Personal Management" marks="16" />
+      <topic id="3" name="Motivation, Leadership and Entrepreneurship" marks="16" />
+      <topic id="4" name="Case Studies" marks="8 or 16*" />
+      <topic id="5" name="Management Information System" marks="8 or 16*" />
+    </topics>
+  </course>
+
+  <course name="Data Mining" examDate="September 15th">
     <topics>
       <topic id="1" name="Introduction" marks="4" />
-      <topic id="2" name="Cost Concepts &amp; Behavior" marks="8" />
-      <topic id="3" name="Understanding Financial Statements" marks="16" />
-      <topic id="4" name="Comparative Analysis of Alternatives" marks="12" />
-      <topic id="5" name="Replacement Analysis" marks="12" />
-      <topic id="6" name="Risk Analysis" marks="12" />
-      <topic id="7" name="Depreciation &amp; Corporate Income Tax" marks="12" />
-      <topic id="8" name="Inflation" marks="4" />
+      <topic id="2" name="Data Preprocessing" marks="10" />
+      <topic id="3" name="Classification" marks="20" />
+      <topic id="4" name="Association Analysis" marks="18" />
+      <topic id="5" name="Cluster Analysis" marks="16" />
+      <topic id="6" name="Anomaly / Fraud Detection" marks="6" />
+      <topic id="7" name="Advanced Applications" marks="6" />
     </topics>
   </course>
-  
-  <course name="Object Oriented Analysis &amp; Design">
+
+  <course name="Computer Network" examDate="September 19th">
     <topics>
-      <topic id="1" name="Object Oriented Fundamentals" marks="18" />
-      <topic id="2" name="Object Oriented Analysis" marks="14" />
-      <topic id="3" name="Object Oriented Design" marks="21" />
-      <topic id="4" name="Implementation" marks="27" />
+      <topic id="1" name="Introduction to Computer Network" marks="8" />
+      <topic id="2" name="Physical Layer" marks="8" />
+      <topic id="3" name="Data Link Layer" marks="8" />
+      <topic id="4" name="Network Layer" marks="16" />
+      <topic id="5" name="Transport Layer" marks="8" />
+      <topic id="6" name="Application Layer" marks="8" />
+      <topic id="7" name="Introduction to IPV6" marks="8" />
+      <topic id="8" name="Network Security" marks="16" />
     </topics>
   </course>
 </courses>
